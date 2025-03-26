@@ -1,4 +1,4 @@
-# Great to meet you
+# Hi, Great to meet you!
 I'm Riyaz, and I enjoy programming  💻 <br>
 Currently a Senior studying CS <br>
 <br>
