@@ -1,6 +1,6 @@
-# 😎 Hey, Nice to meet you!
-I'm Riyaz, an aspiring Software Engineer with prior SWE Experience 💻 <br>
-Currently a Senior studying CS at George Mason University Honors College ⭐  <br>
+# Great to meet you
+I'm Riyaz, and I enjoy programming  💻 <br>
+Currently a Senior studying CS <br>
 <br>
 **Things I code with:** <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
