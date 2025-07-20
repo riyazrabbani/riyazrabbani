@@ -1,6 +1,6 @@
-# Hi, great to meet you!
+# Hey, great to meet you! 👋
 I'm Riyaz, and I enjoy programming  💻 <br>
-Currently a Senior studying CS at George Mason University<br>
+Currently a Site Reliability Engineer at Apple. <br>
 <br>
 **Things I code with:** <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
